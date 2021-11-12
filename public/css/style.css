@@ -1,0 +1,31 @@
+.hero{
+    background-image: url('../images/LazShopee.png'); 
+    margin-top: 5px;
+}
+h2{
+    font-size: 100px;
+    color: white;
+    text-shadow: rgb(red, green, blue);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card1{
+    background-color: lightgrey; 
+}
+.card2{
+    background-color: lightgrey; 
+    
+}
+.card3{
+    background-color: lightgrey; 
+}
+
+.card-title{
+    color: blue;
+}
+
+.index{
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+}
